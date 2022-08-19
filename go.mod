@@ -1,4 +1,4 @@
-module github.com/slackhq/go-audit
+module github.com/cschnei3/go-audit
 
 go 1.12
 
