@@ -1,7 +1,7 @@
 //go:build amd64 && !nocontainers
 // +build amd64,!nocontainers
 
-package main
+package goaudit
 
 import (
 	"context"
